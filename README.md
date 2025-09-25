@@ -26,7 +26,7 @@ npm run preview
   ├─ main.jsx            # Vite entry
   ├─ App.jsx             # Mounts the demo component
   ├─ styles.css          # Minimal styles
-  └─ AttentionFromArrowClone.jsx  # The demo
+  └─ AttentionFromArrow.jsx  # The demo
 index.html
 package.json
 vite.config.js
